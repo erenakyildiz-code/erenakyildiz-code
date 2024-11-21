@@ -16,8 +16,9 @@ I'm a developer with a strong background in **Vue.js** (especially the `<script 
 ### Seyir Defteri
 An in-development project aimed at helping gas distribution contractors conduct efficient, compliant audits. I've been the sole developer on this project, which is now in alpha testing, focusing on building maintainable and scalable solutions as the project grows.
 
-### CrediLink
-A recent project with verifiable credentials for job and education data, similar to LinkedIn but with actual verifiable credentials. Includes a Chrome extension called **CrediLink Connect** for streamlined credential posting and verification.
+### CrediLink  
+A recent project with verifiable credentials for job and education data, similar to LinkedIn but with actual verifiable credentials. Includes a Chrome extension called **CrediLink Connect** for streamlined credential posting and verification.  
+🏆 **1st Place Winner** on the **Ontology Reusable Identity Track** at the **DIF Hackathon**.
 
 ## 📈 Challenges & Values
 
