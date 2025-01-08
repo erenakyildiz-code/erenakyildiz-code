@@ -1,6 +1,6 @@
 # Hi, I'm Eren! 👋
 
-I'm a developer with a strong background in **Vue.js** (especially the `<script setup>` syntax) and **C#**. Over the past year, I've been deeply involved in building **Seyir Defteri**, an auditing application designed specifically for contractors in the gas distribution industry. With my direct experience as a contractor, I'm focused on delivering solutions that meet industry needs, even if they aren't always apparent to users.
+I'm a developer with a strong background in **Vue.js** (Composition API) and **C#**. Over the past year, I've been deeply involved in building **Seyir Defteri**, an auditing application designed specifically for contractors in the gas distribution industry. With my direct experience as a contractor, I'm focused on delivering solutions that meet industry needs, even if they aren't always apparent to users.
 
 ## 🚀 My Skills and Interests
 
