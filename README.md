@@ -74,5 +74,3 @@ I believe in high-impact engineering where every line of code serves a tangible 
 ## 📫 Let's Connect
 
 I'm always open to discussing distributed systems, privacy-preserving tech, or the nuances of .NET development.
-
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://www.google.com/search?q=https://linkedin.com/in/yourusername)
