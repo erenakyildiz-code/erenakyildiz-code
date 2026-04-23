@@ -15,7 +15,7 @@ I am an advanced **GNU/Linux** user who prefers the command line, manual configu
 
 ## 🛠️ The Arsenal
 
-I value languages and tools that offer strict typing and explicit resource management.
+I value languages and tools that offer strict typing and explicit resource management on the backend, while enjoying loose types on the frontend for flexibility.
 
 ### **Backend & Systems**
 
