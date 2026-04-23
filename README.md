@@ -44,7 +44,7 @@ I value languages and tools that offer strict typing and explicit resource manag
 
 * **Role**: Sole Developer.
 * **Tech**: .NET, Vue.js, SQL Server.
-* **Mission**: Improving compliance and audit efficiency in the gas sector. Currently focusing on scalability and alpha testing feedback.
+* **Mission**: Improving compliance and audit efficiency in the gas sector. 1 YEAR IN PRODUCTION WITH %99.9 uptime.
 
 ### **CrediLink** 🏆
 
