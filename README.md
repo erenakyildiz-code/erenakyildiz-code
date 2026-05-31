@@ -5,11 +5,9 @@
 
 > *Systems-level thinker building robust web and mobile solutions.*
 
-I'm a developer with a deep appreciation for explicit control over memory and processes. While my core professional stack centers on **.NET** and **Vue.js**, my passion lies in optimizing performance and understanding the "how" behind the "what."
+I am a software architect and developer bridging the gap between heavy industry compliance and modern software design. My professional work centers on translating rigorous field requirements into highly usable systems, most notably through Seyir Defteri, a production auditing platform tailored for the gas distribution sector.
 
-I bridge the gap between heavy industry requirements and modern software architecture. My background as a contractor in the gas distribution industry drives my focus on **Seyir Defteri**, where I translate complex auditing needs into usable, compliant software.
-
-I am an advanced **GNU/Linux** user who prefers the command line, manual configuration, and knowing exactly what my system is doing at all times.
+While my enterprise stack relies heavily on .NET and Vue.js, my engineering philosophy is rooted in deterministic control, digital sovereignty, and high performance. I am an Arch Linux daily driver who favors the terminal, manual configuration, and systems-level programming in C, C++, and Rust. Whether I'm developing high-performance C/Raylib map engines or orchestrating local AI stacks, I care deeply about explicit memory management, process optimization, and understanding the precise "how" behind the "what."
 
 ---
 
