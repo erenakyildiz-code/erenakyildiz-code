@@ -38,11 +38,14 @@ I value languages and tools that offer strict typing and explicit resource manag
 
 ### **Seyir Defteri** *(Production)*
 
-*An auditing application designed for gas distribution contractors.*
+*An auditing and operational management platform for the gas distribution and hazardous waste sectors.*
 
-* **Role**: Sole Developer.
-* **Tech**: .NET, Vue.js, SQL Server.
-* **Mission**: Improving compliance and audit efficiency in the gas sector. 1 YEAR IN PRODUCTION WITH %99.9 uptime.
+* **Role**: Sole Developer & Architect.
+* **Tech**: .NET, Vue.js, SQL Server, C, Apache Cordova (for mobile compilation on both ios and android), AWS, Firebase.
+* **Scale**: Supports 40 active daily users (30 field technicians, 10 office staff) coordinating operations all across Turkey.
+* **Impact**: Processes ~25,000 station visits annually for firms including Petrotim and Intertech Caleb Brett. It manages critical workflows for underground tank cleaning, hazardous waste reception, and customer satisfaction services.
+* **Reliability**: Over 1 year in production with 99.99% uptime.
+
 
 ### **CrediLink** 🏆
 
