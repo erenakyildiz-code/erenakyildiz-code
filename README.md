@@ -7,7 +7,9 @@
 
 I am a software architect and developer bridging the gap between heavy industry compliance and modern software design. My professional work centers on translating rigorous field requirements into highly usable systems, most notably through Seyir Defteri, a production auditing platform tailored for the gas distribution sector.
 
-While my enterprise stack relies heavily on .NET and Vue.js, my engineering philosophy is rooted in deterministic control, digital sovereignty, and high performance. I am an Arch Linux daily driver who favors the terminal, manual configuration, and systems-level programming in C, C++, and Rust. Whether I'm developing high-performance C/Raylib map engines or orchestrating local AI stacks, I care deeply about explicit memory management, process optimization, and understanding the precise "how" behind the "what."
+While my enterprise stack relies heavily on .NET and Vue.js, my engineering philosophy is rooted in deterministic control, digital sovereignty, and high performance. I am an Arch Linux daily driver who favors the terminal, manual configuration, and systems-level programming in C, C++, and Rust. Whether I'm developing high-performance C/Raylib map engines or orchestrating local AI stacks.
+
+I care deeply about software and manipulating turing machines to do my bidding.
 
 ---
 
